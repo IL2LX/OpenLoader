@@ -1,4 +1,4 @@
-# OpenLoader - OpenSource IL2CPP ModLoader
+# OpenLoader - IL2CPP ModLoader
 
 Extract SDK.zip in OpenLoader/SDK.zip before doing anything and also you need the zip things in releases.
 
